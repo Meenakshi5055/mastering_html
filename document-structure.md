@@ -89,39 +89,59 @@ Four attributes can be used on almost every HTML element — worth knowing early
 |class|Associates the element with a CSS style/class (can hold multiple, space-separated)|
 |style|Applies inline CSS rules directly to the element|
 
----
 
-id
+* ==id==
+
 Uniquely identifies a single element. Useful when you have two elements of the same type and need to tell them apart (e.g. in CSS or JavaScript), or when linking to a spot on the page (see Module 5).
-Html
-title
+
+*Html code*
+```
+<p id="html">This para explains what is HTML</p>
+<p id="css">This para explains what is Cascading Style Sheet</p>
+``
+* ==title==
 Gives a suggested title for the element — its exact behavior depends on the element, but it's most commonly shown as a tooltip when the cursor hovers over it.
-Html
-class
+
+*Html code*
+`<p title="This is a helpful hint">Hover over me</p>`
+
+* ==class==
 Associates an element with a CSS style rule. You'll use this heavily once you get to CSS — for now, just know it exists. A single element can carry multiple classes, space-separated:
-Html
-style
+
+*Html code*
+`<p class="intro highlight">Styled with two classes</p>`
+
+* ==style==
 Lets you write CSS rules directly inline on the element (see also Module 12 — inline CSS is the least preferred method, but useful to know).
-Html
+
+*Html code*
+`<p style="color: blue; font-weight: bold;">Inline-styled text</p>`
 
 ---
 
-Internationalization Attributes
+==**Internationalization Attributes**==
+
 These control language and text direction — useful for pages in multiple languages or right-to-left scripts.
-dir
+
+1. ==dir==
 Tells the browser which direction text should flow.
-Value
-Meaning
-ltr
-Left to right (default)
-rtl
-Right to left (for languages like Hebrew or Arabic)
-Html
-Used on <html>, it sets the direction for the whole document; used on another tag, it only affects that tag's content.
-lang
+
+|Value|Meaning|
+|---|---|
+|ltr|Left to right (default)|
+|rtl|Right to left (for languages like Hebrew or Arabic)
+
+*Html code*
+`<html dir="ltr">`
+
+Used on `<html>`, it sets the direction for the whole document; used on another tag, it only affects that tag's content.
+2. ==lang==
 Indicates the main language of the document, using an ISO-639 two-letter code (e.g. en for English, hi for Hindi).
-Html
-⚠️ Outdated: the separate xml:lang attribute was introduced as an XHTML-specific replacement for lang. In plain HTML5, lang alone is all you need — xml:lang isn't necessary unless you're specifically writing XHTML.
+
+*Html code*
+`<html lang="en">`
+
+⚠️ *Outdated*: the separate `xml:lang` attribute was introduced as an XHTML-specific replacement for `lang`. In plain HTML5, `lang` alone is all you need — `xml:lang` isn't necessary unless you're specifically writing XHTML.
 ---
 
 ---
