@@ -8,7 +8,7 @@
 * Markup — using tags to tell the browser how to display content. Tags themselves are invisible in the final page; they just describe structure.
 * Language — HTML is not a programming language. It has no logic, loops, or conditions. It's a markup language: it only describes structure and content.
 
-** *Html code* **
+**Html code**
 
 `<h1>Welcome to my website</h1>`
 
