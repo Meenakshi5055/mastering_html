@@ -14,6 +14,7 @@ HTML has six levels of headings, `<h1>` through `<h6>`, from most to least impor
 * `<h6>`: Smallest heading
 
 Golden rule reminder: use only one `<h1>` per page, and don't skip levels just for a bigger/smaller look — use CSS for that instead.
+
 ---
 **Paragraphs & Line Breaks**
 
