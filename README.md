@@ -24,8 +24,7 @@
 # 📚 Module Index
 
 1. [Introduction to HTML](./introduction-to-html.md)
-2. [Document Structure](./document-structure.
-md)
+2. [Document Structure](./document-structure.md)
 3. [Text Formatting](./text-formatting.md)
 4. [Lists](./lists.md)
 5. [Links](./links.md)
