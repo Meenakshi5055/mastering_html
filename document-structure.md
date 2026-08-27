@@ -90,7 +90,7 @@ Four attributes can be used on almost every HTML element — worth knowing early
 |style|Applies inline CSS rules directly to the element|
 
 
-== id ==
+* `id`
 
 Uniquely identifies a single element. Useful when you have two elements of the same type and need to tell them apart (e.g. in CSS or JavaScript), or when linking to a spot on the page (see Module 5).
 
@@ -99,19 +99,21 @@ Uniquely identifies a single element. Useful when you have two elements of the s
 <p id="html">This para explains what is HTML</p>
 <p id="css">This para explains what is Cascading Style Sheet</p>
 ```
-==title==
+* `title`
+
 Gives a suggested title for the element — its exact behavior depends on the element, but it's most commonly shown as a tooltip when the cursor hovers over it.
 
 *Html code*
 `<p title="This is a helpful hint">Hover over me</p>`
 
-==class==
+* `class`
 Associates an element with a CSS style rule. You'll use this heavily once you get to CSS — for now, just know it exists. A single element can carry multiple classes, space-separated:
 
 *Html code*
 `<p class="intro highlight">Styled with two classes</p>`
 
-==style==
+* `style`
+
 Lets you write CSS rules directly inline on the element (see also Module 12 — inline CSS is the least preferred method, but useful to know).
 
 *Html code*
@@ -123,7 +125,7 @@ Lets you write CSS rules directly inline on the element (see also Module 12 — 
 
 These control language and text direction — useful for pages in multiple languages or right-to-left scripts.
 
-1. ==dir==
+1. `dir`
 Tells the browser which direction text should flow.
 
 |Value|Meaning|
@@ -135,7 +137,7 @@ Tells the browser which direction text should flow.
 `<html dir="ltr">`
 
 Used on `<html>`, it sets the direction for the whole document; used on another tag, it only affects that tag's content.
-2. ==lang==
+2. `lang`
 Indicates the main language of the document, using an ISO-639 two-letter code (e.g. en for English, hi for Hindi).
 
 *Html code*
