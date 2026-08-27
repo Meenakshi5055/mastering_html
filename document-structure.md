@@ -150,6 +150,36 @@ Indicates the main language of the document, using an ISO-639 two-letter code (e
 
 ---
 
+**Generic Attributes (Legacy Presentation Attributes)**
+
+Older HTML allowed several presentation-related attributes directly on tags. Most are superseded by CSS now.
+
+|Attribute|Options|Function|Status|
+|---|---|---|---|
+|align|right, left, center||Horizontally aligns content|⚠️ Outdated — use CSS text-align/margin|
+|valign|top, middle, bottom|Vertically aligns content in a cell|⚠️ Outdated — use CSS vertical-align|
+|bgcolor|color name/hex/RGB|Background color|
+⚠️ Outdated — use CSS background-color
+background|
+|URL|Background image|⚠️ Outdated — use CSS background-image|
+|width / height|numeric|Size of tables, images, cells|Still valid on <img>; CSS preferred for layout elsewhere|
+|id / class / title|—|Covered above under Core Attributes|Still current, not legacy|
+
+*Html code*
+```
+<!-- Legacy example — avoid in new code -->
+<table align="center" bgcolor="#f0f0f0">
+  <tr><td valign="top">Cell content</td></tr>
+</table>
+```
+*Html code*
+```
+<!-- Modern equivalent -->
+<table style="margin: 0 auto; background-color: #f0f0f0;">
+  <tr><td style="vertical-align: top;">Cell content</td></tr>
+</table>
+```
+
 ---
 [⬅️ Previous module 01:Introduction to HTML](./introduction-to-html.md)|
 
