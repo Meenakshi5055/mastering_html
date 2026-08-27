@@ -2,6 +2,8 @@
 
 **Every HTML page follows the same basic skeleton. These are the foundational tags required to build any standard webpage.**
 
+
+[⬅️Back to Index](./readme.md)
 ---
 
 **The Basic Skeleton**
@@ -75,7 +77,18 @@ Use comments to leave notes in your code that the browser ignores, it helps the 
 ```
 <!-- This is a comment, it won't show on the page -->
 ```
+---
+**Core Attributes**
 
+Four attributes can be used on almost every HTML element — worth knowing early since you'll see them everywhere.
+
+|Attribute|Purpose|
+|id|Uniquely identifies one element on the page
+|title|Suggested title — usually shown as a tooltip on hover|
+|class|Associates the element with a CSS style/class (can hold multiple, space-separated)|
+|style|Applies inline CSS rules directly to the element|
+
+---
 [⬅️ Previous module 01:Introduction to HTML](./introduction-to-html.md)|
 
 [➡️ Next module 03:Text formatting](./text-formatting.md)
