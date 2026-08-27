@@ -158,8 +158,7 @@ Older HTML allowed several presentation-related attributes directly on tags. Mos
 |---|---|---|---|
 |align|right, left, center|Horizontally aligns content|⚠️ Outdated — use CSS text-align/margin|
 |valign|top, middle, bottom|Vertically aligns content in a cell|⚠️ Outdated — use CSS vertical-align|
-|bgcolor|color name/hex/RGB|Background color|
-⚠️ Outdated — use CSS background-color|
+|bgcolor|color name/hex/RGB|Background color|⚠️ Outdated — use CSS background-color|
 |background|URL|Background image|⚠️ Outdated — use CSS background-image|
 |width / height|numeric|Size of tables, images, cells|Still valid on <img>; CSS preferred for layout elsewhere|
 |id / class / title|—|Covered above under Core Attributes|Still current, not legacy|
