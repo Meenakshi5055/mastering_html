@@ -94,7 +94,7 @@ Marks up the title of a work or source. Typically rendered in italics.
 
 * *cite attribute*
 
-Some elements (like <q> and <blockquote>) can also take a cite attribute to point to the URL of the source. It doesn't show visually, but screen readers and browsers can use it for extra context.
+Some elements (like `<q>` and `<blockquote>`) can also take a cite attribute to point to the URL of the source. It doesn't show visually, but screen readers and browsers can use it for extra context.
 
 *Html code*
 ```
