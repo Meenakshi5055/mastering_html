@@ -4,7 +4,7 @@
 ---
 **Headings**
 
-HTML has six levels of headings, <h1> through <h6>, from most to least important.
+HTML has six levels of headings, `<h1>` through `<h6>`, from most to least important.
 
 * `<h1>`: Main title of the page (largest/most important)
 * `<h2>`: Major section
