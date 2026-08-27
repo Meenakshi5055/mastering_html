@@ -19,3 +19,20 @@
 * Always include `<meta charset="UTF-8">` and the viewport meta tag. See Module 10.
 * Pair every form input with a `<label>`. Accessibility matters, not just appearance.
 * When you use a legacy/outdated tag, know it and say so. This repo keeps them for reference (marked ⚠️ Outdated) — don't use them in new projects unless you have a specific reason to.
+
+
+# 📚 Module Index
+
+1. [Introduction to HTML](#introduction-to-html)
+2. [Document Structure](#document-structure)
+3. [Text & Formatting](#text--formatting)
+4. [Lists](#lists)
+5. [Links](#links)
+6. [Images & Multimedia](#images--multimedia)
+7. [Tables](#tables)
+8. [Forms](#forms)
+9. [Semantic HTML & Layout](#semantic-html--layout)
+10. [Meta Tags & SEO Basics](#meta-tags--seo-basics)
+11. [Iframes & Frames](#iframes--frames)
+12. [HTML + CSS & JavaScript](#html--css--javascript)
+13. [HTML Tag Reference](#html-tag-reference)
