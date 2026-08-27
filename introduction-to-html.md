@@ -45,4 +45,4 @@ Throughout this repo, we're learning and writing HTML5, which is what every `<!D
 
 [⬅️ Back to homepage](./readme.md)|
 
-[➡️ Next module 02](./document-structure.md)
+[➡️ Next module 02:Document structure](./document-structure.md)
