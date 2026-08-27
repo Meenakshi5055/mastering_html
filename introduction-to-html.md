@@ -43,6 +43,6 @@ You write the structure; the browser handles turning it into a visual page.
 
 Throughout this repo, we're learning and writing HTML5, which is what every `<!DOCTYPE html>` declaration refers to.
 
-[⬅️ Back to homepage](./readme.md)|
+[⬅️ Back to homepage: Index](./readme.md)|
 
 [➡️ Next module 02:Document structure](./document-structure.md)
