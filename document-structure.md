@@ -83,6 +83,7 @@ Use comments to leave notes in your code that the browser ignores, it helps the 
 Four attributes can be used on almost every HTML element — worth knowing early since you'll see them everywhere.
 
 |Attribute|Purpose|
+|---|---|
 |id|Uniquely identifies one element on the page
 |title|Suggested title — usually shown as a tooltip on hover|
 |class|Associates the element with a CSS style/class (can hold multiple, space-separated)|
