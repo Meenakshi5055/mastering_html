@@ -1,6 +1,6 @@
 # mastering_html
 
-** An organized, step-by-step HTML learning resource — from core basics to advanced mastery. Built module by module, with older/legacy tags kept for reference and clearly flagged where a modern approach (CSS/JS) has replaced them.**
+**An organized, step-by-step HTML learning resource — from core basics to advanced mastery. Built module by module, with older/legacy tags kept for reference and clearly flagged where a modern approach (CSS/JS) has replaced them.**
 
 ## 📜 Golden Rules:
 
