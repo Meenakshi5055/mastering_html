@@ -63,7 +63,8 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 
 **Quotations**
 
-1. `<q>` — inline quote
+1. `<q>` — inline quote:
+
 Used for short, inline quotes.
 
 *Html code*
@@ -72,7 +73,8 @@ Used for short, inline quotes.
 ```
 Output: *“The only way to do great work is to love what you do.” — Steve Jobs*
 
-2. `<blockquote>` — block quote
+2. `<blockquote>` — block quote:
+
 Used for longer quotes, entire paragraphs, set apart from the main text.
 
 *Html code*
@@ -82,7 +84,8 @@ Used for longer quotes, entire paragraphs, set apart from the main text.
   <p>Imagination is more important than knowledge.</p>
 </blockquote>
 ```
-3. `<cite>` — title or source
+3. `<cite>` — title or source:
+
 Marks up the title of a work or source. Typically rendered in italics.
 
 *Html code*
@@ -101,7 +104,7 @@ Some elements (like <q> and <blockquote>) can also take a cite attribute to poin
 
 **Code-related Text**
 
-1. `<code>` — inline code
+1. `<code>` — inline code:
 
 Used for short, inline snippets of code — variable names, function names, or HTML tags. Tells the browser/search engines "this is programming code, not normal human language."
 
@@ -114,7 +117,8 @@ function greet() {
 </code></pre>
 ```
 
-2. `<pre>` — preformatted text
+2. `<pre>` — preformatted text:
+
 Preserves all whitespace exactly as written (spaces, line breaks) — the browser normally collapses extra spaces, so use `<pre>` when spacing/formatting matters (like displaying a code block).
 
 `<code>` is often used inside `<pre>` together for multi-line code blocks:
@@ -128,7 +132,7 @@ function greet() {
 </code></pre>
 ```
 
-3. `<kbd>` — keyboard input
+3. `<kbd>` — keyboard input:
 
 Used in tutorials/documentation to show users exactly what key(s) to press.
 
@@ -137,7 +141,8 @@ Used in tutorials/documentation to show users exactly what key(s) to press.
 <p>To copy text, press <kbd>Ctrl</kbd> + <kbd>C</kbd>.</p>
 ```
 
-4. `<samp>` — sample output
+4. `<samp>` — sample output:
+
 Used to show sample output from a program or system — e.g. an error message, a computer response.
 
 *Html code*
