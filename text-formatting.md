@@ -45,7 +45,7 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 6. **Highlight (`<mark>`)**: Highlights text in yellow.
    * Example: `<p>HTML is <mark>easy to learn</mark>.</p>`
 
-7. **Small Text (`<small>`)**: Makes the text smaller.
+7. **Small Text (`<small>`)**: Makes the text smaller.HTML5 redefined its meaning: it's for side-comments/fine print/legal text, not just "smaller size" for its own sake.
    * Example: `<p>Hi, <small>people</small>.</p>`
 
 8. **Subscript (`<sub>`)**: Lowers text, commonly used in chemical formulas.
@@ -59,6 +59,27 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 
 11. **Inserted Text (`<ins>`)**: Shows inserted text and automatically underlines it.
     * Example: `<p>I am learning <ins>HTML</ins>.</p>`
+
+12. **Strike text — (`<strike>`)**: Struck-through text but ⚠️ Outdated ,❌ Abandoned
+
+13. **Monospaced font — (`<tt>`)**: Typewriter-style fixed-width text but ❌ Abandoned
+
+14. **Larger text — <big>**: Bumped text up one size but ❌ Abandoned.
+
+---
+
+**Phrase tags:**
+
+|Item|Status|What it does|
+|---|---|
+|Text abbreviation — `<abbr>`|✅ Current|Marks an abbreviation; pair with title for the full expansion: `<abbr title="Hypertext Markup Language">HTML</abbr>`|
+|Acronym — `<acronym>`|❌ Abandoned in HTML5. Use `<abbr>` for both abbreviations and acronyms now|Old, separate tag for acronyms specifically|
+|Text direction — `<bdo>`|✅ Current|Overrides text direction for a span: `<bdo dir="rtl">This flips right-to-left</bdo>` — pairs with the dir attribute already in Module 2, but `<bdo>` itself is the phrase tag|
+|Special terms — `<dfn>`|✅ Current|Marks the defining instance of a term: `<dfn>HTML</dfn>` stands for Hypertext Markup Language|
+|Programming variables — `<var>`|✅ Current|
+Marks a variable name, usually alongside `<code>/<pre>`: `<var>x</var>` = `<var>y</var> + 1`|
+|Address — `<address>`|✅ Current|Wraps contact info for a page/article: `<address>Email: amy@example.com</address>` — browsers usually italicize it by default|
+
 ---
 
 **Centering Content (Legacy)**:
