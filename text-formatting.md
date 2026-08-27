@@ -71,6 +71,7 @@ Used for short, inline quotes.
 <p><q>The only way to do great work is to love what you do.</q> — Steve Jobs</p>
 ```
 Output: *“The only way to do great work is to love what you do.” — Steve Jobs*
+
 2. `<blockquote>` — block quote
 Used for longer quotes, entire paragraphs, set apart from the main text.
 
@@ -81,3 +82,66 @@ Used for longer quotes, entire paragraphs, set apart from the main text.
   <p>Imagination is more important than knowledge.</p>
 </blockquote>
 ```
+3. `<cite>` — title or source
+Marks up the title of a work or source. Typically rendered in italics.
+
+*Html code*
+
+`<p>I learn <cite>HTML</cite></p>`
+
+* *cite attribute*
+
+Some elements (like <q> and <blockquote>) can also take a cite attribute to point to the URL of the source. It doesn't show visually, but screen readers and browsers can use it for extra context.
+
+*Html code*
+```
+<p>As Steve Jobs once said, <q cite="https://www.brainyquote.com/quotes">Innovation distinguishes between a leader and a follower.</q></p>
+```
+---
+
+**Code-related Text**
+
+1. `<code>` — inline code
+
+Used for short, inline snippets of code — variable names, function names, or HTML tags. Tells the browser/search engines "this is programming code, not normal human language."
+
+*Html code* 
+```
+<pre><code>
+function greet() {
+  console.log("Hello!");
+}
+</code></pre>
+```
+
+2. `<pre>` — preformatted text
+Preserves all whitespace exactly as written (spaces, line breaks) — the browser normally collapses extra spaces, so use `<pre>` when spacing/formatting matters (like displaying a code block).
+
+`<code>` is often used inside `<pre>` together for multi-line code blocks:
+
+*Html code*
+```
+<pre><code>
+function greet() {
+  console.log("Hello!");
+}
+</code></pre>
+```
+
+3. `<kbd>` — keyboard input
+
+Used in tutorials/documentation to show users exactly what key(s) to press.
+
+*Html code*
+```
+<p>To copy text, press <kbd>Ctrl</kbd> + <kbd>C</kbd>.</p>
+```
+
+4. `<samp>` — sample output
+Used to show sample output from a program or system — e.g. an error message, a computer response.
+
+*Html code*
+```
+<p>If you forget your password, the screen will say: <samp>Error: Invalid credentials.</samp></p>
+```
+
