@@ -126,6 +126,7 @@ Lets you write CSS rules directly inline on the element (see also Module 12 — 
 These control language and text direction — useful for pages in multiple languages or right-to-left scripts.
 
 1. `dir`
+
 Tells the browser which direction text should flow.
 
 |Value|Meaning|
@@ -137,13 +138,16 @@ Tells the browser which direction text should flow.
 `<html dir="ltr">`
 
 Used on `<html>`, it sets the direction for the whole document; used on another tag, it only affects that tag's content.
+
 2. `lang`
+
 Indicates the main language of the document, using an ISO-639 two-letter code (e.g. en for English, hi for Hindi).
 
 *Html code*
 `<html lang="en">`
 
 ⚠️ Outdated: the separate `xml:lang` attribute was introduced as an XHTML-specific replacement for `lang`. In plain HTML5, `lang` alone is all you need — `xml:lang` isn't necessary unless you're specifically writing XHTML.
+
 ---
 
 ---
