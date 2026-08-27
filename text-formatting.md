@@ -13,12 +13,12 @@ HTML has six levels of headings, `<h1>` through `<h6>`, from most to least impor
 * `<h5>`: Minor heading
 * `<h6>`: Smallest heading
 
-*Golden rule reminder:* use only one `<h1>` per page, and don't skip levels just for a bigger/smaller look — use CSS for that instead.
+*Golden rule reminder*: use only one `<h1>` per page, and don't skip levels just for a bigger/smaller look — use CSS for that instead.
 ---
 **Paragraphs & Line Breaks**
 
 *Html*
-``|
+```
 <p>This is a paragraph of text.</p>
 <br> <!-- forces a single line break, no closing tag -->
 <hr> <!-- draws a horizontal rule/divider line -->
