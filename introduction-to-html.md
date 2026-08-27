@@ -9,7 +9,9 @@
 * Language — HTML is not a programming language. It has no logic, loops, or conditions. It's a markup language: it only describes structure and content.
 
 *Html*
+
 `<h1>Welcome to my website</h1>`
+
 Here <h1> and </h1> are tags, and "Welcome to my website" is the content they wrap.
 
 **A Bit of History**
@@ -22,6 +24,7 @@ Here <h1> and </h1> are tags, and "Welcome to my website" is the content they wr
 
 The browser reads your HTML tags and figures out what each part of the page is:
 > "This is a heading, this is a link, this is a paragraph" → then it renders (displays) the page accordingly.
+
 You write the structure; the browser handles turning it into a visual page.
 
 **Why Learn HTML?**
