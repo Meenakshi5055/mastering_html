@@ -74,7 +74,7 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 *Modern approach*: use CSS instead.
 
 *Css code*
-``|
+```
 p { text-align: center; }    /* for text */
 div { margin: 0 auto; width: 50%; } /* for a block element */
 ```
