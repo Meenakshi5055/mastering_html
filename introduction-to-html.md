@@ -33,3 +33,13 @@ You write the structure; the browser handles turning it into a visual page.
 * Pairs with CSS (styling/appearance) and JavaScript (behavior/interactivity) to form the three core web technologies.
 * It's beginner-friendly: no compiler, no complex setup — just a text editor and a browser.
 
+**Versions of HTML**
+| Version | Notes |
+| --- | --- |
+| HTML | Original version, 1991 |
+| HTML 2.0–4.01 |Added tables, frames, forms, scripting support over the years |
+| XHTML | A stricter, XML-based version of HTML (mostly historical now) |
+| HTML5 | Current standard — added semantic tags, native audio/video, canvas, form validation, and more |
+
+
+
