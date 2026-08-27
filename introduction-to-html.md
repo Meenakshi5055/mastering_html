@@ -41,5 +41,8 @@ You write the structure; the browser handles turning it into a visual page.
 | XHTML | A stricter, XML-based version of HTML (mostly historical now) |
 | HTML5 | Current standard — added semantic tags, native audio/video, canvas, form validation, and more |
 
+Throughout this repo, we're learning and writing HTML5, which is what every `<!DOCTYPE html>` declaration refers to.
 
+[⬅️ Back to homepage](./readme.md)|
 
+[➡️ Next module 02](./document-structure.md)
