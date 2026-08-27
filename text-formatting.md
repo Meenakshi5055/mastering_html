@@ -63,7 +63,7 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 
 **Centering Content (Legacy)**:
 
-⚠️ Outdated: <center> puts any content — text, an image, a whole table cell — in the center of the page or cell.
+⚠️ Outdated: `<center>` puts any content — text, an image, a whole table cell — in the center of the page or cell.
 
 *Html code*
 ```
