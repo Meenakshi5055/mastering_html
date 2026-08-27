@@ -60,3 +60,24 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 11. **Inserted Text (`<ins>`)**: Shows inserted text and automatically underlines it.
     * Example: `<p>I am learning <ins>HTML</ins>.</p>`
 ---
+
+**Quotations**
+
+1. `<q>` — inline quote
+Used for short, inline quotes.
+
+*Html code*
+```
+<p><q>The only way to do great work is to love what you do.</q> — Steve Jobs</p>
+```
+Output: *“The only way to do great work is to love what you do.” — Steve Jobs*
+2. `<blockquote>` — block quote
+Used for longer quotes, entire paragraphs, set apart from the main text.
+
+*Html code*
+```
+<p>As Albert Einstein once said:</p>
+<blockquote>
+  <p>Imagination is more important than knowledge.</p>
+</blockquote>
+```
