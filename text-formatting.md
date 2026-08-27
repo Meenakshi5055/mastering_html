@@ -169,3 +169,6 @@ Used to show sample output from a program or system — e.g. an error message, a
 <p>If you forget your password, the screen will say: <samp>Error: Invalid credentials.</samp></p>
 ```
 
+[⬅️ Previous module 02:Document structure](./document-structure.md)|
+
+[➡️ Next module 04:Lists](./lists.md)
