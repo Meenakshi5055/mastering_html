@@ -90,7 +90,7 @@ Four attributes can be used on almost every HTML element — worth knowing early
 |style|Applies inline CSS rules directly to the element|
 
 
-==id==
+== id ==
 
 Uniquely identifies a single element. Useful when you have two elements of the same type and need to tell them apart (e.g. in CSS or JavaScript), or when linking to a spot on the page (see Module 5).
 
@@ -141,7 +141,7 @@ Indicates the main language of the document, using an ISO-639 two-letter code (e
 *Html code*
 `<html lang="en">`
 
-⚠️ *Outdated*: the separate `xml:lang` attribute was introduced as an XHTML-specific replacement for `lang`. In plain HTML5, `lang` alone is all you need — `xml:lang` isn't necessary unless you're specifically writing XHTML.
+⚠️ Outdated: the separate `xml:lang` attribute was introduced as an XHTML-specific replacement for `lang`. In plain HTML5, `lang` alone is all you need — `xml:lang` isn't necessary unless you're specifically writing XHTML.
 ---
 
 ---
