@@ -76,6 +76,6 @@ Use comments to leave notes in your code that the browser ignores, it helps the 
 <!-- This is a comment, it won't show on the page -->
 ```
 
-[⬅️ Previous module 01:Introduction](./introduction.md)|
+[⬅️ Previous module 01:Introduction to HTML](./introduction-to-html.md)|
 
 [➡️ Next module 03:Text formatting](./text-formatting.md)
