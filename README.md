@@ -7,7 +7,7 @@
 **Follow these no matter what you're writing:**
 
 * Always start with `<!DOCTYPE html>`. It must be the very first line of every page.
-* Always close your tags. Every opening tag needs a matching closing tag, unless it's self-closing (`<br>`, <img>`,`<input>`,`<meta>`,`<hr>`).
+* Always close your tags. Every opening tag needs a matching closing tag, unless it's self-closing (`<br>`, `<img>`, `<input>`, `<meta>`, `<hr>`).
 * Nest tags properly. If you open tag A then tag B, close B before you close A. Never let tags overlap.
 * Use lowercase for tag names and attributes. `<div>` not `<DIV>` — it's the widely followed convention and improves consistency.
 * Always quote attribute values. class="box" not class=box.
