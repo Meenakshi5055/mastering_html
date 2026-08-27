@@ -2,6 +2,8 @@
 
 **Every HTML page follows the same basic skeleton. These are the foundational tags required to build any standard webpage.**
 
+---
+
 **The Basic Skeleton**
 
 *Html code*
