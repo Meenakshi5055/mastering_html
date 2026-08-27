@@ -12,7 +12,7 @@
 
 `<h1>Welcome to my website</h1>`
 
-Here `<h1>` and `</h1>| are tags, and "Welcome to my website" is the content they wrap.
+Here `<h1>` and `</h1>` are tags, and "Welcome to my website" is the content they wrap.
 
 **A Bit of History**
 
