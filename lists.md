@@ -23,6 +23,7 @@ Which displays item with bullet points for organization.
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
 *Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+
 *`<li>`-list of items*
 
 **2. Ordered list:**
