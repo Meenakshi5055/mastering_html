@@ -124,9 +124,9 @@ Giving description for the term. to show term and description.
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
-- Use them for precise, structured key-value pairings where information is directly linked. Like glossaries, metadata, FAQ pages.
+- Use description list for precise, structured key-value pairings where information is directly linked. Like glossaries, metadata, FAQ pages.
 
-- Avoid them when data is narrative, sequential, or strictly tabular. Like step-by-step instructions, simple bullet points.
+- Avoid description list when data is narrative, sequential, or strictly tabular. Like step-by-step instructions, simple bullet points.
 
 **Nesting Lists:**
 List inside a list, for better organization.
