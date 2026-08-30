@@ -81,9 +81,7 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 **Phrase tags:**
 
 |Item|Status|What it does|
-
-|---|---|
-
+|---|---|---|
 |Text abbreviation — `<abbr>`|✅ Current|Marks an abbreviation; pair with title for the full expansion: `<abbr title="Hypertext Markup Language">HTML</abbr>`|
 |Acronym — `<acronym>`|❌ Abandoned in HTML5. Use `<abbr>` for both abbreviations and acronyms now|Old, separate tag for acronyms specifically|
 |Text direction — `<bdo>`|✅ Current|Overrides text direction for a span: `<bdo dir="rtl">This flips right-to-left</bdo>` — pairs with the dir attribute already in Module 2, but `<bdo>` itself is the phrase tag|
