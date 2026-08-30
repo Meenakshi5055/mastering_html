@@ -65,16 +65,18 @@ Download and install Visual Studio Code from code.visualstudio.com.
 * *Open a Project Folder*: Open VS Code \rightarrow Click File \rightarrow Open Folder... \rightarrow Select or create a folder for your HTML projects.
 * *Create an HTML File*: Click the New File icon in the left file explorer and name it index.html (or filename.html).
 * *Add Extensions*:On left side of the screen you can see four square shapes and that is extensions.Search for live server and install it.
-* *Generate the HTML Boilerplate*: Type ! (an exclamation mark) inside your blank .html file and press Tab or Enter. VS Code will automatically generate the foundational document structure (<!DOCTYPE html>, <html>, <head>, <body>).
+* *Generate the HTML Boilerplate*: Type ! (an exclamation mark) inside your blank .html file and press Tab or Enter. VS Code will automatically generate the foundational document structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
 
-Write Your HTML Code: Add your content between the <body> and </body> tags.
+Write Your HTML Code: Add your content between the `<body>` and `</body>` tags.
 
 For better installation instructions check ✔️ online.
 ---
 
+During lessons I provided run button for running the program. so copy the text and click on the run button and it takes to the editor screen space it and you see the output. 
+
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop "." to run the code, it directly takes you to VS-code*
+*Or else press full-stop " . " to run the code, it directly takes you to VS-code*
 
 ---
 
