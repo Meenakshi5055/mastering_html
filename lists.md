@@ -26,7 +26,7 @@ Which displays item with bullet points for organization.
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
-- Use unordered lists when items can be scrambled without changing the meaning. Items are grouped but hold equal priority.
+* Use unordered lists when items can be scrambled without changing the meaning. Items are grouped but hold equal priority.
 
 **2. Ordered list:**
 Which displays items with numbers for organization.
@@ -43,7 +43,7 @@ Which displays items with numbers for organization.
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
-- Use ordered lists when the sequence of items matters. Changing the order alters the meaning or success of the information.
+* Use ordered lists when the sequence of items matters. Changing the order alters the meaning or success of the information.
 
 **Attributes**
 
@@ -85,7 +85,8 @@ Which displays items with numbers for organization.
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
-*Useful when continuing instructions across different pages or sections.*
+
+* Useful when continuing instructions across different pages or sections.*
 
 * *Reversed attribute:*
   Counts down-wards instead of upwards, like 9 8 7 6 5 4 3 2 1 stop.
