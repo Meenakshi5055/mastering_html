@@ -19,12 +19,12 @@ Which displays item with bullet points for organization.
 <ul>
 <li>Apple</li>
 <li>Watermelon</li>
-<li>Berrys</li>
+<li>Berries</li>
 </ul>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
 
 * Use unordered lists when items can be scrambled without changing the meaning. Items are grouped but hold equal priority.
 
@@ -41,7 +41,7 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
 
 * Use ordered lists when the sequence of items matters. Changing the order alters the meaning or success of the information.
 
@@ -69,7 +69,9 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
+
+*press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
 * *Start attribute:*
   For continuing the lists which is started already/before from the next point.
@@ -83,6 +85,8 @@ Which displays items with numbers for organization.
 </ol>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
@@ -101,6 +105,8 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
+
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 *During competitions, countdowns etc., 
 
@@ -118,9 +124,11 @@ Giving description for the term. to show term and description.
 <dd>The markup language used to structure web pages.</dd>
 <dt>CSS</dt>
 <dd>The language used to style the webpage</dd>
-<dl>
+</dl>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
@@ -139,14 +147,15 @@ List inside a list, for better organization.
 <li>HTML</li>
 <li>CSS</li>
 <li>Java-script</li>
-</li>
 </ul>
+</li>
 <li>Back-end
 <ul>
 <li>Python</li>
 <li>SQL</li>
 <li>Java</li>
 </ul>
+</li>
 </ol>
 ```
 
@@ -184,6 +193,8 @@ List inside a list, for better organization.
 
 
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
