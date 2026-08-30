@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Live Code Runner</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { display: flex; height: 100vh; margin: 0; font-family: sans-serif; }
+        .editor-container { width: 50%; height: 100%; display: flex; flex-direction: column; background: #1e1e1e; }
+        .editor-header { color: #fff; padding: 10px; background: #333; font-weight: bold; }
+        textarea { width: 100%; height: 100%; background: #1e1e1e; color: #fff; border: none; padding: 15px; font-family: monospace; font-size: 14px; resize: none; outline: none; }
+        .preview-container { width: 50%; height: 100%; display: flex; flex-direction: column; }
+        .preview-header { color: #333; padding: 10px; background: #e0e0e0; font-weight: bold; }
+        iframe { width: 100%; height: 100%; border: none; background: #fff; }
+    </style>
+</head>
+<body>
+
+    <div class="editor-container">
+        <div class="editor-header">HTML Code (Type or Paste Here)</div>
+        <textarea id="htmlCode" placeholder="Write your HTML code here..."></textarea>
+    </div>
+
+    <div class="preview-container">
+        <div class="preview-header">Live Output Screen</div>
+        <iframe id="outputScreen"></iframe>
+    </div>
+
+    <script>
+        const htmlCode = document.getElementById('htmlCode');
+        const outputScreen = document.getElementById('outputScreen');
+
+        htmlCode.addEventListener('input', () => {
+            outputScreen.srcdoc = htmlCode.value;
+        });
+    </script>
+
+</body>
+</html>
