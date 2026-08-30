@@ -77,7 +77,13 @@ During lessons I provided run button for running the program. so copy the text a
 
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
+
+[▶️ to run the code in VS code](https://code.visualstudio.com/)
+
+
 *Or else press full-stop " . " to run the code, it directly takes you to VS-code*
+
+There are two options 
 
 ---
 
