@@ -57,6 +57,19 @@ These platforms require  zero installation-users can click a link, type HTML cod
   * *JSFiddle(jsfiddle.net)*: A lightweight online playground for sharing and testing HTML snippets instantly.
   * *StackBlitz(stackblitz.com)*: A full web-based IDE powered by Visual Studio Code that runs entire web projects in the browser.
    
+3. Setting Up HTML in VS Code (Step-by-Step)
+Install VS Code: 
+
+Download and install Visual Studio Code from code.visualstudio.com.
+* *Login into*: Using GitHub or email id login into it which help you to save the files and use it.
+* *Open a Project Folder*: Open VS Code \rightarrow Click File \rightarrow Open Folder... \rightarrow Select or create a folder for your HTML projects.
+* *Create an HTML File*: Click the New File icon in the left file explorer and name it index.html (or filename.html).
+* *Add Extensions*:On left side of the screen you can see four square shapes and that is extensions.Search for live server and install it.
+* *Generate the HTML Boilerplate*: Type ! (an exclamation mark) inside your blank .html file and press Tab or Enter. VS Code will automatically generate the foundational document structure (<!DOCTYPE html>, <html>, <head>, <body>).
+
+Write Your HTML Code: Add your content between the <body> and </body> tags.
+
+For better installation instructions check ✔️ online.
 ---
 
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
