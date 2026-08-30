@@ -33,7 +33,7 @@ Which displays items with numbers for organization.
 ```
 <ol>
 <li>Wake up</li>
-<li>Exercise/li>
+<li>Exercise</li>
 <li>Brush teeth</li>
 <ol>
 ```
