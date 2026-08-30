@@ -8,7 +8,7 @@ Lists are three types:
 * **Unordered list[`<ul>`]:** Displays item with bullet points(.)
 * **Ordered list[`<ol>`]:** Displays items with numbers(1).
 * **Description list[`<dl>`]:** To show a term and its description.
-
+---
 1. **Unordered list:**
 Which displays item with bullet points for organization.
 
@@ -25,7 +25,7 @@ Which displays item with bullet points for organization.
 *Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
 *<li>-list of items*
 
-2. **Ordered list:**
+**2. Ordered list:**
 Which displays items with numbers for organization.
 
 *Html code*
