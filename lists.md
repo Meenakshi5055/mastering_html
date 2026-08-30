@@ -129,9 +129,9 @@ List inside a list, for better organization.
 <li>HTML</li>
 <li>CSS</li>
 <li>Java-script</li>
+</li>
 </ul>
 <ul>
-</li>
 <li>Back-end
 <li>Python</li>
 <li>SQL</li>
