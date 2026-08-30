@@ -33,6 +33,7 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 <h2>My hobbies<h2>
 <p>Listening to music and writing coding</p>
 ```
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 ---
 **Basic Text Styling**
 
