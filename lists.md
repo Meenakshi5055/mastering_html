@@ -69,6 +69,7 @@ Which displays items with numbers for organization.
 
 * *Start attribute:*
   For continuing the lists which is started already/before from the next point.
+
  *Html code*
   ```
 <ol start='4'>
@@ -84,6 +85,7 @@ Which displays items with numbers for organization.
 
 * *Reversed attribute:*
   Counts down-wards instead of upwards, like 9 8 7 6 5 4 3 2 1 stop.
+
    *Html code*
   ```
 <ol reversed>
