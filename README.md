@@ -24,8 +24,21 @@
 # 📚 Module Index
 
 1. [Introduction to HTML](./introduction-to-html.md)
+   * **Definition & Explanation:** Here we see what is html and what is it stands for .
+   * **History and Versions:** How it developed and different types are available.
+   * **Environment Set-up:** To run the code what available platforms are there. 
 2. [Document Structure](./document-structure.md)
+   * **The basic skeleton:** What structure to be followed and explanation of how and where it should be used.
+   * **Tag vs Element vs Attributes:** Difference b/w them and knowing before using them.
+   * **Code structure:** which is Opening & closing tags, nesting & indentation, Comments.
+   * **Core attributes & Internationalization attributes:** Main attributes used almost everywhere and text direction.
+   * **Generic attributes:** Outdated but good know.
 3. [Text Formatting](./text-formatting.md)
+   * **Headings:** So it consists of six headings, should use accordingly.
+   * **Paragraphs & line breaks:** Paragraph , line break, horizontal line.
+   * **Text styling:** Changing the text forms as we need.
+   * **Phrase tags:** Adds structural or semantic meaning to the text, but not how it looks.
+   * **Quotations & Code text:** Adding quotes and needed while writing code.
 4. [Lists](./lists.md)
 5. [Links](./links.md)
 6. [Images & Multimedia](./images--multimedia.md)
