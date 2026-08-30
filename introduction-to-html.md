@@ -70,6 +70,7 @@ Download and install Visual Studio Code from code.visualstudio.com.
 Write Your HTML Code: Add your content between the `<body>` and `</body>` tags.
 
 For better installation instructions check ✔️ online.
+
 ---
 
 During lessons I provided run button for running the program. so copy the text and click on the run button and it takes to the editor screen space it and you see the output. 
