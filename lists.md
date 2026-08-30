@@ -87,7 +87,7 @@ Which displays items with numbers for organization.
   Counts down-wards instead of upwards, like 9 8 7 6 5 4 3 2 1 stop.
 
    *Html code*
-  ```
+```
 <ol reversed>
 <li>Third</li>
 <li>Second</li>
