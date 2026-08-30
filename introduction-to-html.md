@@ -69,7 +69,7 @@ Download and install Visual Studio Code from code.visualstudio.com.
 
 Write Your HTML Code: Add your content between the `<body>` and `</body>` tags.
 
-For better installation instructions check ✔️ online.
+For better installation instructions search online.
 
 ---
 
