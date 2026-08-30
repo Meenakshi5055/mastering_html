@@ -12,6 +12,8 @@ Lists are three types:
 1. **Unordered list:**
 Which displays item with bullet points for organization.
 
+*`<li>`-list of items* used inside of a tag.
+
  *Html code*:
  ```
 <ul>
@@ -22,9 +24,9 @@ Which displays item with bullet points for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
-*`<li>`-list of items*
+- Use unordered lists when items can be scrambled without changing the meaning. Items are grouped but hold equal priority.
 
 **2. Ordered list:**
 Which displays items with numbers for organization.
@@ -39,7 +41,9 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+
+- Use ordered lists when the sequence of items matters. Changing the order alters the meaning or success of the information.
 
 **Attributes**
 
@@ -65,7 +69,7 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
 * *Start attribute:*
   For continuing the lists which is started already/before from the next point.
@@ -80,7 +84,7 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 *Useful when continuing instructions across different pages or sections.*
 
 * *Reversed attribute:*
@@ -96,12 +100,13 @@ Which displays items with numbers for organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 *During competitions, countdowns etc., 
 
 3. **Description list:**
+A description list (the <dl> HTML tag) is a semantic structure used to pair terms with their corresponding descriptions.
 Giving description for the term. to show term and description.
-* `<dl>` Starts the overall list
+* `<dl>` Starts the overall list, a wrapper container. 
 * `<dt>` Defines the term(word)
 * `<dd>` Defines the description(meaning)
 
@@ -116,7 +121,11 @@ Giving description for the term. to show term and description.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+
+- Use them for precise, structured key-value pairings where information is directly linked. Like glossaries, metadata, FAQ pages.
+
+- Avoid them when data is narrative, sequential, or strictly tabular. Like step-by-step instructions, simple bullet points.
 
 **Nesting Lists:**
 List inside a list, for better organization.
@@ -141,7 +150,7 @@ List inside a list, for better organization.
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
-*Or else press full-stop " . " to run the code, it directly takes you to the VS-Code.*
+*Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
 
 ---
 
