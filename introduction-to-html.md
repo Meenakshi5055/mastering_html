@@ -73,7 +73,7 @@ For better installation instructions search online.
 
 ---
 
-During lessons I provided run button for running the program. so copy the text and click on the run button and it takes to the editor screen space it and you see the output. 
+During lessons I provided run button for running the program. so copy the text and click on the run button and it takes to the editor screen space and paste it you see the output. 
 
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
