@@ -18,7 +18,7 @@ Which displays item with bullet points for organization.
 <li>Apple</li>
 <li>Watermelon</li>
 <li>Berrys</li>
-<ul>
+</ul>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
@@ -35,7 +35,7 @@ Which displays items with numbers for organization.
 <li>Wake up</li>
 <li>Exercise</li>
 <li>Brush teeth</li>
-<ol>
+</ol>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
@@ -59,9 +59,9 @@ Which displays items with numbers for organization.
 ```
 <ol type='i'>
 <li>HTML</li>
-<li>CSS/li>
+<li>CSS</li>
 <li>Java-script</li>
-<ol>
+</ol>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
@@ -76,7 +76,7 @@ Which displays items with numbers for organization.
 <li>Drink milk</li>
 <li>Study</li>
 <li>Take bath</li>
-<ol>
+</ol>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
@@ -92,7 +92,7 @@ Which displays items with numbers for organization.
 <li>Third</li>
 <li>Second</li>
 <li>First</li>
-<ol>
+</ol>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
