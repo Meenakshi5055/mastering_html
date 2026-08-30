@@ -43,6 +43,23 @@ You write the structure; the browser handles turning it into a visual page.
 
 Throughout this repo, we're learning and writing HTML5, which is what every `<!DOCTYPE html>` declaration refers to.
 
+**Environment Set-up**
+1. Offline applications(Desktop editors):
+These apps run directly on your computer without requaring an internet connection.
+  * *VS-Code*(Visual Studio code):The industry standard editor for web development. Free, powerful,and customizable.
+  * *Sublime Text*:A lightweight, fast text editor with high performance.
+  * *Notepad++(Windows):A simple editor with high  performance. 
+2. Online Code Runners(No installation required):
+These platforms require  zero installation-users can click a link, type HTML code, and immediately view the rendered output inside their browser. 
+  * *CodePen(codepen.io)*: An online editor for HTML, CSS, and JavaScript with live side-by-side rendering.
+  * *JSFiddle(jsfiddle.net)*: A lightweight online playground for sharing and testing HTML snippets instantly.
+  * *StackBlitz(stackblitz.com)*: A full web-based IDE powered by Visual Studio Code that runs entire web projects in the browser.
+   
+
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
+
+
 [⬅️ Back to homepage: Index](./readme.md)|
 
 [➡️ Next module 02:Document structure](./document-structure.md)
