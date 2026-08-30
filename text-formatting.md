@@ -34,6 +34,7 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 <p>Listening to music and writing coding</p>
 ```
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
 ---
 **Basic Text Styling**
 
@@ -108,6 +109,9 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 p { text-align: center; }    /* for text */
 div { margin: 0 auto; width: 50%; } /* for a block element */
 ```
+
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
 ---
 
 **Quotations**
@@ -122,6 +126,9 @@ Used for short, inline quotes.
 ```
 Output: *“The only way to do great work is to love what you do.” — Steve Jobs*
 
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
+
 2. `<blockquote>` — block quote:
 
 Used for longer quotes, entire paragraphs, set apart from the main text.
@@ -133,6 +140,9 @@ Used for longer quotes, entire paragraphs, set apart from the main text.
   <p>Imagination is more important than knowledge.</p>
 </blockquote>
 ```
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
+
 3. `<cite>` — title or source:
 
 Marks up the title of a work or source. Typically rendered in italics.
@@ -149,6 +159,8 @@ Some elements (like `<q>` and `<blockquote>`) can also take a cite attribute to 
 ```
 <p>As Steve Jobs once said, <q cite="https://www.brainyquote.com/quotes">Innovation distinguishes between a leader and a follower.</q></p>
 ```
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
 ---
 
 **Code-related Text**
@@ -165,6 +177,8 @@ function greet() {
 }
 </code></pre>
 ```
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
 
 2. `<pre>` — preformatted text:
 
@@ -180,6 +194,8 @@ function greet() {
 }
 </code></pre>
 ```
+[◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
+*Or else press full-stop "." to run the code, it directly takes you to VS-code*
 
 3. `<kbd>` — keyboard input:
 
