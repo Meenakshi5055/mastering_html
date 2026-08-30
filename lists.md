@@ -104,6 +104,7 @@ Giving description for the term. to show term and description.
 * `<dl>` Starts the overall list
 * `<dt>` Defines the term(word)
 * `<dd>` Defines the description(meaning)
+
  *Html code*
   ```
 <dl>
