@@ -131,7 +131,7 @@ Giving description for the term. to show term and description.
 **Nesting Lists:**
 List inside a list, for better organization.
 
-*Html code*
+*Html code-1*
   ```
 <ol>
 <li>Front-end
@@ -149,6 +149,40 @@ List inside a list, for better organization.
 </ul>
 </ol>
 ```
+
+*Html code-2*
+```
+<ol>
+  <!-- Step 1 (Ordered) -->
+  <li>
+    <strong>Prepare the workspace</strong>
+    <!-- Nested Unordered List -->
+    <ul>
+      <li>Sanitise the countertops</li>
+      <li>Gather all measuring tools</li>
+      <li>Sharpen the chef's knife</li>
+    </ul>
+  </li>
+
+  <!-- Step 2 (Ordered) -->
+  <li>
+    <strong>Measure the ingredients</strong>
+    <!-- Nested Unordered List -->
+    <ul>
+      <li>250g all-purpose flour</li>
+      <li>10g active dry yeast</li>
+      <li>5g fine sea salt</li>
+    </ul>
+  </li>
+
+  <!-- Step 3 (Ordered) -->
+  <li>
+    <strong>Mix and knead the dough</strong>
+  </li>
+</ol>
+```
+
+
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
 *Or else press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
