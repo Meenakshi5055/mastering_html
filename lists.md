@@ -26,6 +26,9 @@ Which displays item with bullet points for organization.
 
 [▶️ to run the code in VS code](https://code.visualstudio.com/)
 
+*press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+
+
 * Use unordered lists when items can be scrambled without changing the meaning. Items are grouped but hold equal priority.
 
 **2. Ordered list:**
@@ -42,6 +45,9 @@ Which displays items with numbers for organization.
 [◀️ Run the code](https://meenakshi5055.github.io/mastering_html/)
 
 [▶️ to run the code in VS code](https://code.visualstudio.com/)
+
+*press full-stop (" . ") to run the code, it directly takes you to the VS-Code.*
+
 
 * Use ordered lists when the sequence of items matters. Changing the order alters the meaning or success of the information.
 
