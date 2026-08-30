@@ -131,8 +131,8 @@ List inside a list, for better organization.
 <li>Java-script</li>
 </li>
 </ul>
-<ul>
 <li>Back-end
+<ul>
 <li>Python</li>
 <li>SQL</li>
 <li>Java</li>
