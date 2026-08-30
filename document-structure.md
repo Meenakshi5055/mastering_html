@@ -37,9 +37,9 @@ It's easy to mix these words up, so here's the distinction:
 
 | Term | Meaning| Example |
 | --- | --- | --- |
-| Tag | The markup itself, in angle brackets | <p>, </p> |
-| Element | The tag(s) + the content together| <p>Hello</p> |
-| Attribute | Extra info added inside the opening tag |
+| Tag | The markup itself, in angle brackets | `<p>`, `</p>` |
+| Element | The tag(s) + the content together| `<p>Hello</p>` |
+| Attribute | Extra info added inside the opening tag |`<ol type='i'>`|
 
 **Opening & Closing Tags**
 
@@ -121,7 +121,7 @@ Lets you write CSS rules directly inline on the element (see also Module 12 — 
 
 ---
 
-==**Internationalization Attributes**==
+**Internationalization Attributes**
 
 These control language and text direction — useful for pages in multiple languages or right-to-left scripts.
 
