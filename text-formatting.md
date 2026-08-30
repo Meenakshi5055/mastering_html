@@ -21,8 +21,17 @@ Golden rule reminder: use only one `<h1>` per page, and don't skip levels just f
 *Html*
 ```
 <p>This is a paragraph of text.</p>
-<br> <!-- forces a single line break, no closing tag -->
-<hr> <!-- draws a horizontal rule/divider line -->
+<br> <!-- forces a single line break, no closing tag. Helps you have the text in new line. -->
+<hr> <!-- draws a horizontal rule/divider line in between. For not blending paragraphs or content together -->
+```
+
+*Example html code*
+```
+<h1>My profile</h1><br>
+<p>Welcome to my webpage</p>
+<hr>
+<h2>My hobbies<h2>
+<p>Listening to music and writing coding</p>
 ```
 ---
 **Basic Text Styling**
