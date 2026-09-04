@@ -40,6 +40,9 @@
    * **Phrase tags:** Adds structural or semantic meaning to the text, but not how it looks.
    * **Quotations & Code text:** Adding quotes and needed while writing code.
 4. [Lists](./lists.md)
+   * **Unorder List:** Combinational, when order is not required.
+   * **Order List:** When step by step list is important. 
+   * **Description List:** Detail explanation.    
 5. [Links](./links.md)
 6. [Images & Multimedia](./images--multimedia.md)
 7. [Tables](./tables.md)
