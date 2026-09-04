@@ -17,7 +17,7 @@ Here `<h1>` and `</h1>` are tags, and "Welcome to my website" is the content the
 **A Bit of History**
 
 * *Tim Berners-Lee* is credited as the father of HTML — he created it in 1991 while working at CERN.
-* It was invented mainly so scientists could share information over the internet easily, by linking documents together.
+* It was invented mainly for scientists so they could share information over the internet easily, by linking documents together.
 * HTML grew alongside the WWW (World Wide Web), web browsers, and web servers — all four came up together as the foundation of the modern web.
 
 **How a Browser Reads HTML**
@@ -46,7 +46,7 @@ Throughout this repo, we're learning and writing HTML5, which is what every `<!D
 **Environment Set-up**
 1. Offline applications(Desktop editors):
 
-These apps run directly on your computer without requaring an internet connection.
+These apps need installation but run directly on your computer without requring an internet connection.
   * *VS-Code*(Visual Studio code):The industry standard editor for web development. Free, powerful,and customizable.
   * *Sublime Text*:A lightweight, fast text editor with high performance.
   * *Notepad++(Windows)*:A simple editor with high  performance. 
