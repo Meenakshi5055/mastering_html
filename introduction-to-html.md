@@ -81,9 +81,10 @@ During lessons I provided run button for running the program. so copy the text a
 [▶️ to run the code in VS code](https://code.visualstudio.com/)
 
 
-*Or else press full-stop " . " to run the code, it directly takes you to VS-code*
+*Or else press full-stop " .. " to run the code, it directly takes you to VS-code*
 
-There are two options 
+There are two options:  1. By clicking the run the code, it runs the code in the same page
+                        2. Press full-stop  ".." or click the run the code in VS code which directly takes you to the vs code.
 
 ---
 
