@@ -44,15 +44,15 @@ You write the structure; the browser handles turning it into a visual page.
 Throughout this repo, we're learning and writing HTML5, which is what every `<!DOCTYPE html>` declaration refers to.
 
 **Environment Set-up**
-1. Offline applications(Desktop editors):
+1. Offline applications (Desktop editors):
 
-These apps need installation but run directly on your computer without requring an internet connection.
-  * *VS-Code*(Visual Studio code):The industry standard editor for web development. Free, powerful,and customizable.
-  * *Sublime Text*:A lightweight, fast text editor with high performance.
-  * *Notepad++(Windows)*:A simple editor with high  performance. 
-2. Online Code Runners(No installation required):
+These apps need installation but run directly on your computer without requiring an internet connection.
+  * *VS-Code*(Visual Studio Code): The industry standard editor for web development. Free, powerful, and customizable.
+  * *Sublime Text*: A lightweight, fast text editor with high performance.
+  * *Notepad++(Windows)*: A simple editor with high  performance. 
+2. Online Code Runners (No installation required):
 
-These platforms require  zero installation-users can click a link, type HTML code, and immediately view the rendered output inside their browser. 
+These platforms require  zero installation - users can click a link, type HTML code, and immediately view the rendered output inside their browser. 
   * *CodePen(codepen.io)*: An online editor for HTML, CSS, and JavaScript with live side-by-side rendering.
   * *JSFiddle(jsfiddle.net)*: A lightweight online playground for sharing and testing HTML snippets instantly.
   * *StackBlitz(stackblitz.com)*: A full web-based IDE powered by Visual Studio Code that runs entire web projects in the browser.
@@ -61,10 +61,10 @@ These platforms require  zero installation-users can click a link, type HTML cod
 Install VS Code: 
 
 Download and install Visual Studio Code from code.visualstudio.com.
-* *Login into*: Using GitHub or email id login into it which help you to save the files and use it.
+* *Sign in/Login into*: Using GitHub or email id login into it which helps you to save the files and use it.
 * *Open a Project Folder*: Open VS Code \rightarrow Click File \rightarrow Open Folder... \rightarrow Select or create a folder for your HTML projects.
 * *Create an HTML File*: Click the New File icon in the left file explorer and name it index.html (or filename.html).
-* *Add Extensions*:On left side of the screen you can see four square shapes and that is extensions.Search for live server and install it.
+* *Add Extensions*:On left side of the screen you can see four square shapes and those are extensions. Search for live server and install it.
 * *Generate the HTML Boilerplate*: Type ! (an exclamation mark) inside your blank .html file and press Tab or Enter. VS Code will automatically generate the foundational document structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
 
 Write Your HTML Code: Add your content between the `<body>` and `</body>` tags.
